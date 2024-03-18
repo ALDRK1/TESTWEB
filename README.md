@@ -1,6 +1,7 @@
-#** my web site**
+# Mi Sitio Web
 
-## ~Home~
-## *About me*
--o*Skills
--o*Projects
+## Home
+## Acerca de mí
+- *Habilidades*
+- *Proyectos*
+  ![background](imgReadme/imagen3.png)
